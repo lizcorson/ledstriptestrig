@@ -11,7 +11,7 @@ A note - so far I have not used any 2-wire type LED strips, but this setup could
 
 ## Photos
 ![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_selectchipset.jpg)
-![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_numleds.png)
-![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_colorwipered.png)
-![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_rainbowcycle.png)
+![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_numleds.jpg)
+![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_colorwipered.jpg)
+![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/photos/0605_rainbowcycle.jpg)
 ![alt tag](https://github.com/lizcorson/ledstriptestrig/blob/master/schematic/led tester.png)
